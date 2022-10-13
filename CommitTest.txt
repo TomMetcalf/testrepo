@@ -1,1 +1,9 @@
 test content for git tutorial.
+
+added more to this text file.
+
+Then added a little bit more.
+
+Line number 4 added at bottom of file.
+
+Added a fifth line to CommitTest.
