@@ -7,3 +7,7 @@ Then added a little bit more.
 Line number 4 added at bottom of file.
 
 Added a fifth line to CommitTest.
+
+Changes made the next day.
+
+More changes made to test.
